@@ -17,7 +17,7 @@ You can provide configuration with specific ENV's variables:
 |PORT|Application port|3000|
 |REDIS_HOST|Redis host|127.0.0.1|
 |REDIS_PORT|Redis port|6379|
-|REDIS_DB|Application port||
+|REDIS_DB|Application DB||
 
 ### Prerequisites
 
